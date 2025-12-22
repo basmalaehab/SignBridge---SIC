@@ -1,9 +1,7 @@
 streamlit
 numpy
-pandas
-opencv
 opencv-python-headless
 tensorflow
-gtts
+pandas
 mediapipe
-openpyxl 
+gTTS
