@@ -86,6 +86,7 @@ Bash
 Project Structure
 Bash
 
+```
 SignBridge/
 ├── SignBridge.py
 ├── pages/
@@ -102,6 +103,7 @@ SignBridge/
 │   └── mediapipe_utils.py
 ├── requirements.txt
 └── README.md
+```
 
   
 ---
