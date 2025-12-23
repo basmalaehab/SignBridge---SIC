@@ -86,9 +86,9 @@ Bash
 Project Structure
 Bash
 
-  SignBridge/
-├── SignBridge.py           
-├── pages/                  
+SignBridge/
+├── SignBridge.py
+├── pages/
 │   ├── SignToSpeech.py
 │   ├── SpeechToSign.py
 │   ├── Learn.py
@@ -102,6 +102,7 @@ Bash
 │   └── mediapipe_utils.py
 ├── requirements.txt
 └── README.md
+
   
 ---
 
